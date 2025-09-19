@@ -1,5 +1,7 @@
 # Palindrome Checker
 
+![Palindrome Checker Example](./palindrome.png)
+
 **Year:** 2025  
 **Category:** JavaScript  
 **Type:** String Manipulation & Conditionals  
